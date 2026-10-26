@@ -1,0 +1,21 @@
+{
+  "id": "./",
+  "name": "SèchePro — Journal nutritionnel",
+  "short_name": "SèchePro",
+  "description": "Journal personnel de nutrition, d’activité et de progression.",
+  "lang": "fr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#05080d",
+  "theme_color": "#05080d",
+  "icons": [
+    {
+      "src": "./app-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
